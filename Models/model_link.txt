@@ -1,0 +1,12 @@
+Drowsiness Detection Model
+
+Download the trained model from:
+https://drive.google.com/file/d/1byMKmPiUcn82rpFQVxYnHg_vJnqhhOp9/view?usp=drive_link
+
+Instructions:
+1. Click the link above
+2. Click "Download" button
+3. Save the file in this 'models' folder
+4. Rename it to 'drowsiness_model.h5'
+
+File size: ~75MB
