@@ -25,9 +25,3 @@ This project implements a real-time drowsiness detection system that can identif
 - Recall: 0.74
 - F1-Score: 0.75
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/drowsiness-detection.git
-cd drowsiness-detection
